@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/syedibad1657" target="blank"><img src="https://img.shields.io/twitter/follow/syedibad1657?logo=twitter&style=for-the-badge" alt="syedibad1657" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,C++,React.js**
+- 🌱 I’m currently learning **C++,React.js,Next.js,DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SyedIbad123](https://github.com/SyedIbad123)
 
