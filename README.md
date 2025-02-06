@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/syedibad1657" target="blank"><img src="https://img.shields.io/twitter/follow/syedibad1657?logo=twitter&style=for-the-badge" alt="syedibad1657" /></a> </p>
 
-- 🌱 I’m currently learning **C++,React.js,Next.js,DevOps**
+- 🌱 I’m currently learning **Machine Learning,DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SyedIbad123](https://github.com/SyedIbad123)
 
 - 💬 Ask me about **JavaScript, Python, SQL, Html, C++,CSS, Cyber Security**
 
-- 📫 How to reach me **pc16712.syedibadali@gmail.com**
+- 📫 How to reach me **ibad1657@gmail.com**
 
 - ⚡ Fun fact **I think I am overconfident**
 
